@@ -1,3 +1,6 @@
 bug1
 
 First line of text 
+
+Second line of text
+
