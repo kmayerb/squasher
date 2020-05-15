@@ -1,0 +1,3 @@
+bug1
+
+First line of text 
